@@ -66,9 +66,9 @@
     },
     {
       "cat": "species",
-      "title": "붉은 달 아래 고딕 뱀파이어 수녀",
+      "title": "붉은 달 아래 타락한 서큐버스 수녀",
       "src": "images/eri/main-v12/01.webp",
-      "memo": "붉은 달 아래, 성스러움과 위험함이 묘하게 겹친 밤.",
+      "memo": "붉은 달이 비추는 밤, 성스러운 수녀복 아래 감춰진 서큐버스의 매혹적인 날개.",
       "date": "2026.09.15",
       "owner": "eri",
       "collection": "fragments"
@@ -468,6 +468,284 @@
       "memo": "백귀가 모인 밤에도 해금 선율만큼은 맑게 울려 퍼진다.",
       "date": "2026.09.16",
       "collection": "fragments"
+    },
+    {
+      "cat": "bold_hanbok",
+      "title": "노을빛 매화 궁전의",
+      "src": "images/seolhong/new/bold_hanbok/01.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "bold_hanbok",
+      "maesil_pick": "고객님 오늘은 영업 종료했습니다."
+    },
+    {
+      "cat": "bold_hanbok",
+      "title": "노을빛 전통 지붕 위",
+      "src": "images/seolhong/new/bold_hanbok/02.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "bold_hanbok"
+    },
+    {
+      "cat": "bold_hanbok",
+      "title": "달빛 아래 천등 축제의 소녀",
+      "src": "images/seolhong/new/bold_hanbok/03.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "bold_hanbok"
+    },
+    {
+      "cat": "bold_hanbok",
+      "title": "달빛 연못의 붉은 머리 여인",
+      "src": "images/seolhong/new/bold_hanbok/04.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "bold_hanbok",
+      "maesil_pick": "내가 생각해도 내 각선미 죽이는듯"
+    },
+    {
+      "cat": "bold_hanbok",
+      "title": "등불 축제의 밤, 하늘로 올라가는 소원",
+      "src": "images/seolhong/new/bold_hanbok/05.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "bold_hanbok",
+      "maesil_pick": "자~ 여러분들의 별풍이 타고있습니다."
+    },
+    {
+      "cat": "bold_hanbok",
+      "title": "매화 하늘다리와 운무궁전",
+      "src": "images/seolhong/new/bold_hanbok/06.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "bold_hanbok",
+      "maesil_pick": "여기서부터는 구플 전용입니다."
+    },
+    {
+      "cat": "bold_hanbok",
+      "title": "매화와 편지를 든 붉은 머리 무녀",
+      "src": "images/seolhong/new/bold_hanbok/07.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "bold_hanbok",
+      "maesil_pick": "매실아 입영통지서 왔더라",
+      "creator_pick": "매화가 피는 날, 그대에게 닿기를"
+    },
+    {
+      "cat": "bold_hanbok",
+      "title": "붉은 머리의 매화 축제 무희",
+      "src": "images/seolhong/new/bold_hanbok/08.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "bold_hanbok",
+      "maesil_pick": "못 미더운 설홍입니다만"
+    },
+    {
+      "cat": "bold_hanbok",
+      "title": "비 내리는 등불 아래 찻집의 그녀",
+      "src": "images/seolhong/new/bold_hanbok/09.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "bold_hanbok"
+    },
+    {
+      "cat": "bold_hanbok",
+      "title": "햇살 가득한 꽃길의",
+      "src": "images/seolhong/new/bold_hanbok/10.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "bold_hanbok",
+      "maesil_pick": "어이. 이계단 지나가게? 별풍 4500원만 내놔봐/세금도둑"
+    },
+    {
+      "cat": "fantasy_new",
+      "title": "고딕 인형술사의 붉은 달빛 무대",
+      "src": "images/seolhong/new/fantasy_new/01.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "fantasy_new"
+    },
+    {
+      "cat": "fantasy_new",
+      "title": "구름 위 천상 신전의 마법문과 여왕",
+      "src": "images/seolhong/new/fantasy_new/02.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "fantasy_new"
+    },
+    {
+      "cat": "fantasy_new",
+      "title": "달빛 아래서 만난 매화 숲의 요정",
+      "src": "images/seolhong/new/fantasy_new/03.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "fantasy_new"
+    },
+    {
+      "cat": "fantasy_new",
+      "title": "매화의 성채를 지키는 기사",
+      "src": "images/seolhong/new/fantasy_new/04.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "fantasy_new"
+    },
+    {
+      "cat": "fantasy_new",
+      "title": "별빛 항해사의 celestial voyage",
+      "src": "images/seolhong/new/fantasy_new/05.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "fantasy_new"
+    },
+    {
+      "cat": "fantasy_new",
+      "title": "별빛을 다루는 천문 도서관 마법사(포니테일버전)",
+      "src": "images/seolhong/new/fantasy_new/06.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "fantasy_new"
+    },
+    {
+      "cat": "fantasy_new",
+      "title": "별빛을 다루는 천문 도서관 마법사",
+      "src": "images/seolhong/new/fantasy_new/07.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "fantasy_new"
+    },
+    {
+      "cat": "fantasy_new",
+      "title": "붉은 수정 동굴의 낫 전사",
+      "src": "images/seolhong/new/fantasy_new/08.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "fantasy_new"
+    },
+    {
+      "cat": "fantasy_new",
+      "title": "얼음 결정을 비추는 겨울의 여왕",
+      "src": "images/seolhong/new/fantasy_new/09.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "fantasy_new"
+    },
+    {
+      "cat": "fantasy_new",
+      "title": "용기사와 거대 용의 대치",
+      "src": "images/seolhong/new/fantasy_new/10.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "fantasy_new"
+    },
+    {
+      "cat": "fantasy_new",
+      "title": "폭풍 속 붉은 기사와 성채",
+      "src": "images/seolhong/new/fantasy_new/11.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "fantasy_new"
+    },
+    {
+      "cat": "hanbok_new",
+      "title": "구름 위 벚꽃 궁전의 여인",
+      "src": "images/seolhong/new/hanbok_new/01.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "hanbok_new"
+    },
+    {
+      "cat": "hanbok_new",
+      "title": "궁전 회랑의 붉은 머리 여인",
+      "src": "images/seolhong/new/hanbok_new/02.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "hanbok_new"
+    },
+    {
+      "cat": "hanbok_new",
+      "title": "노을빛 매화꽃 현수교의 여인",
+      "src": "images/seolhong/new/hanbok_new/03.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "hanbok_new"
+    },
+    {
+      "cat": "hanbok_new",
+      "title": "달빛 아래 연못을 바라보는 매화꽃 여인",
+      "src": "images/seolhong/new/hanbok_new/04.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "hanbok_new"
+    },
+    {
+      "cat": "hanbok_new",
+      "title": "등불 축제의 매화꽃 여인",
+      "src": "images/seolhong/new/hanbok_new/05.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "hanbok_new"
+    },
+    {
+      "cat": "hanbok_new",
+      "title": "매화꽃 등불 축제의 밤",
+      "src": "images/seolhong/new/hanbok_new/06.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "hanbok_new"
+    },
+    {
+      "cat": "hanbok_new",
+      "title": "매화꽃 바람 속 산마루의 여검객",
+      "src": "images/seolhong/new/hanbok_new/07.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "hanbok_new"
+    },
+    {
+      "cat": "hanbok_new",
+      "title": "매화꽃 호수의 붉은 정자 여인",
+      "src": "images/seolhong/new/hanbok_new/08.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "hanbok_new"
+    },
+    {
+      "cat": "hanbok_new",
+      "title": "햇살 가득한 장미 정원의 초대",
+      "src": "images/seolhong/new/hanbok_new/09.png",
+      "memo": "",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "hanbok_new"
     }
   ],
   "version": 14,
@@ -478,6 +756,24 @@
       "subtitle": "FRAGMENTS OF TIME · 2026.09",
       "description": "처음의 기록을 간직한 작은 전시관",
       "icon": "⌛"
+    },
+    "bold_hanbok": {
+      "title": "파격한복",
+      "subtitle": "BOLD HANBOK · 특별한 동양의 순간",
+      "description": "설홍의 새로운 파격한복 일러스트 컬렉션",
+      "icon": "🌸"
+    },
+    "fantasy_new": {
+      "title": "판타지",
+      "subtitle": "FANTASY · 상상의 세계",
+      "description": "설홍의 새로운 판타지 일러스트 컬렉션",
+      "icon": "✦"
+    },
+    "hanbok_new": {
+      "title": "한복",
+      "subtitle": "HANBOK · 고운 옷자락",
+      "description": "설홍의 새로운 한복 일러스트 컬렉션",
+      "icon": "🎐"
     }
   },
   "active_members": [
