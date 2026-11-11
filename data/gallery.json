@@ -1766,6 +1766,546 @@
       "date": "2026.11",
       "owner": "nano",
       "collection": "nano_date"
+    },
+    {
+      "cat": "nunyo_pajama",
+      "title": "별빛을 기다리는 구름 잠옷",
+      "src": "images/nunyo/new/nunyo_pajama/01.png",
+      "memo": "잠옷 컬렉션 · 별빛을 기다리는 구름 잠옷",
+      "date": "2026.11",
+      "owner": "nunyo",
+      "collection": "nunyo_pajama"
+    },
+    {
+      "cat": "nunyo_pajama",
+      "title": "구름 왕국으로의 작은 여행",
+      "src": "images/nunyo/new/nunyo_pajama/02.png",
+      "memo": "잠옷 컬렉션 · 구름 왕국으로의 작은 여행",
+      "date": "2026.11",
+      "owner": "nunyo",
+      "collection": "nunyo_pajama"
+    },
+    {
+      "cat": "nunyo_pajama",
+      "title": "달이 비추는 꿈의 왕국",
+      "src": "images/nunyo/new/nunyo_pajama/03.png",
+      "memo": "잠옷 컬렉션 · 달이 비추는 꿈의 왕국",
+      "date": "2026.11",
+      "owner": "nunyo",
+      "collection": "nunyo_pajama"
+    },
+    {
+      "cat": "nunyo_pajama",
+      "title": "오늘 밤은 구름 파자마 파티",
+      "src": "images/nunyo/new/nunyo_pajama/04.png",
+      "memo": "잠옷 컬렉션 · 오늘 밤은 구름 파자마 파티",
+      "date": "2026.11",
+      "owner": "nunyo",
+      "collection": "nunyo_pajama"
+    },
+    {
+      "cat": "nunyo_pajama",
+      "title": "포근한 꿈에 폭 안겨서",
+      "src": "images/nunyo/new/nunyo_pajama/05.png",
+      "memo": "잠옷 컬렉션 · 포근한 꿈에 폭 안겨서",
+      "date": "2026.11",
+      "owner": "nunyo",
+      "collection": "nunyo_pajama"
+    },
+    {
+      "cat": "nunyo_pajama",
+      "title": "창가에 내려앉은 첫눈",
+      "src": "images/nunyo/new/nunyo_pajama/06.png",
+      "memo": "잠옷 컬렉션 · 창가에 내려앉은 첫눈",
+      "date": "2026.11",
+      "owner": "nunyo",
+      "collection": "nunyo_pajama"
+    },
+    {
+      "cat": "nunyo_pajama",
+      "title": "눈 내리는 밤의 비밀 아지트",
+      "src": "images/nunyo/new/nunyo_pajama/07.png",
+      "memo": "잠옷 컬렉션 · 눈 내리는 밤의 비밀 아지트",
+      "date": "2026.11",
+      "owner": "nunyo",
+      "collection": "nunyo_pajama"
+    },
+    {
+      "cat": "nunyo_pajama",
+      "title": "난롯불 옆, 겨울밤의 이야기",
+      "src": "images/nunyo/new/nunyo_pajama/08.png",
+      "memo": "잠옷 컬렉션 · 난롯불 옆, 겨울밤의 이야기",
+      "date": "2026.11",
+      "owner": "nunyo",
+      "collection": "nunyo_pajama"
+    },
+    {
+      "cat": "nunyo_pajama",
+      "title": "달빛 침실의 작은 별",
+      "src": "images/nunyo/new/nunyo_pajama/09.png",
+      "memo": "잠옷 컬렉션 · 달빛 침실의 작은 별",
+      "date": "2026.11",
+      "owner": "nunyo",
+      "collection": "nunyo_pajama"
+    },
+    {
+      "cat": "nunyo_pajama",
+      "title": "별빛 열차, 꿈속으로 출발",
+      "src": "images/nunyo/new/nunyo_pajama/10.png",
+      "memo": "잠옷 컬렉션 · 별빛 열차, 꿈속으로 출발",
+      "date": "2026.11",
+      "owner": "nunyo",
+      "collection": "nunyo_pajama"
+    },
+    {
+      "cat": "nunyo_pajama",
+      "title": "구름 왕국에서 만난 푸른 밤",
+      "src": "images/nunyo/new/nunyo_pajama/11.png",
+      "memo": "잠옷 컬렉션 · 구름 왕국에서 만난 푸른 밤",
+      "date": "2026.11",
+      "owner": "nunyo",
+      "collection": "nunyo_pajama"
+    },
+    {
+      "cat": "yeowuyeon_princess",
+      "title": "달빛 발코니의 장미빛 약속",
+      "src": "images/yeowuyeon/new/yeowuyeon_princess/01.png",
+      "memo": "공주 컬렉션 · 달빛 발코니의 장미빛 약속",
+      "date": "2026.11",
+      "owner": "yeowuyeon",
+      "collection": "yeowuyeon_princess"
+    },
+    {
+      "cat": "yeowuyeon_princess",
+      "title": "별빛 회전목마의 주인공",
+      "src": "images/yeowuyeon/new/yeowuyeon_princess/02.png",
+      "memo": "공주 컬렉션 · 별빛 회전목마의 주인공",
+      "date": "2026.11",
+      "owner": "yeowuyeon",
+      "collection": "yeowuyeon_princess"
+    },
+    {
+      "cat": "yeowuyeon_princess",
+      "title": "샹들리에 아래, 공주의 미소",
+      "src": "images/yeowuyeon/new/yeowuyeon_princess/03.png",
+      "memo": "공주 컬렉션 · 샹들리에 아래, 공주의 미소",
+      "date": "2026.11",
+      "owner": "yeowuyeon",
+      "collection": "yeowuyeon_princess"
+    },
+    {
+      "cat": "yeowuyeon_princess",
+      "title": "별무리 호숫가에 앉아",
+      "src": "images/yeowuyeon/new/yeowuyeon_princess/04.png",
+      "memo": "공주 컬렉션 · 별무리 호숫가에 앉아",
+      "date": "2026.11",
+      "owner": "yeowuyeon",
+      "collection": "yeowuyeon_princess"
+    },
+    {
+      "cat": "yeowuyeon_princess",
+      "title": "봄의 왕관을 쓴 소녀",
+      "src": "images/yeowuyeon/new/yeowuyeon_princess/05.png",
+      "memo": "공주 컬렉션 · 봄의 왕관을 쓴 소녀",
+      "date": "2026.11",
+      "owner": "yeowuyeon",
+      "collection": "yeowuyeon_princess"
+    },
+    {
+      "cat": "yeowuyeon_princess",
+      "title": "꽃으로 열린 비밀 궁전",
+      "src": "images/yeowuyeon/new/yeowuyeon_princess/06.png",
+      "memo": "공주 컬렉션 · 꽃으로 열린 비밀 궁전",
+      "date": "2026.11",
+      "owner": "yeowuyeon",
+      "collection": "yeowuyeon_princess"
+    },
+    {
+      "cat": "yeowuyeon_princess",
+      "title": "장미 정원의 푸른 왕관",
+      "src": "images/yeowuyeon/new/yeowuyeon_princess/07.png",
+      "memo": "공주 컬렉션 · 장미 정원의 푸른 왕관",
+      "date": "2026.11",
+      "owner": "yeowuyeon",
+      "collection": "yeowuyeon_princess"
+    },
+    {
+      "cat": "yeowuyeon_princess",
+      "title": "하늘 궁전의 꽃잎 계단",
+      "src": "images/yeowuyeon/new/yeowuyeon_princess/08.png",
+      "memo": "공주 컬렉션 · 하늘 궁전의 꽃잎 계단",
+      "date": "2026.11",
+      "owner": "yeowuyeon",
+      "collection": "yeowuyeon_princess"
+    },
+    {
+      "cat": "yeowuyeon_princess",
+      "title": "오후 세 시, 공주의 티타임",
+      "src": "images/yeowuyeon/new/yeowuyeon_princess/09.png",
+      "memo": "공주 컬렉션 · 오후 세 시, 공주의 티타임",
+      "date": "2026.11",
+      "owner": "yeowuyeon",
+      "collection": "yeowuyeon_princess"
+    },
+    {
+      "cat": "eri_nun",
+      "title": "검은 날개가 내려앉은 성소",
+      "src": "images/eri/new/eri_nun/01.png",
+      "memo": "수녀복 컬렉션 · 검은 날개가 내려앉은 성소",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_nun"
+    },
+    {
+      "cat": "eri_nun",
+      "title": "장미빛 스테인드글라스의 기도",
+      "src": "images/eri/new/eri_nun/02.png",
+      "memo": "수녀복 컬렉션 · 장미빛 스테인드글라스의 기도",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_nun"
+    },
+    {
+      "cat": "eri_nun",
+      "title": "푸른 성당, 고요한 맹세",
+      "src": "images/eri/new/eri_nun/03.png",
+      "memo": "수녀복 컬렉션 · 푸른 성당, 고요한 맹세",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_nun"
+    },
+    {
+      "cat": "eri_nun",
+      "title": "달을 바라보는 검은 날개",
+      "src": "images/eri/new/eri_nun/04.png",
+      "memo": "수녀복 컬렉션 · 달을 바라보는 검은 날개",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_nun"
+    },
+    {
+      "cat": "eri_nun",
+      "title": "금서가 잠든 달빛 서재",
+      "src": "images/eri/new/eri_nun/05.png",
+      "memo": "수녀복 컬렉션 · 금서가 잠든 달빛 서재",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_nun"
+    },
+    {
+      "cat": "eri_nun",
+      "title": "붉은 달의 침묵",
+      "src": "images/eri/new/eri_nun/06.png",
+      "memo": "수녀복 컬렉션 · 붉은 달의 침묵",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_nun"
+    },
+    {
+      "cat": "eri_nun",
+      "title": "장미가 피어난 밤의 온실",
+      "src": "images/eri/new/eri_nun/07.png",
+      "memo": "수녀복 컬렉션 · 장미가 피어난 밤의 온실",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_nun"
+    },
+    {
+      "cat": "eri_nun",
+      "title": "장미 정원에 내려온 천사",
+      "src": "images/eri/new/eri_nun/08.png",
+      "memo": "수녀복 컬렉션 · 장미 정원에 내려온 천사",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_nun"
+    },
+    {
+      "cat": "eri_nun",
+      "title": "거울 너머의 또 다른 기도",
+      "src": "images/eri/new/eri_nun/09.png",
+      "memo": "수녀복 컬렉션 · 거울 너머의 또 다른 기도",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_nun"
+    },
+    {
+      "cat": "eri_nun",
+      "title": "촛불과 금서 사이에서",
+      "src": "images/eri/new/eri_nun/10.png",
+      "memo": "수녀복 컬렉션 · 촛불과 금서 사이에서",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_nun"
+    },
+    {
+      "cat": "eri_nun",
+      "title": "무너진 성당의 마지막 기도",
+      "src": "images/eri/new/eri_nun/11.png",
+      "memo": "수녀복 컬렉션 · 무너진 성당의 마지막 기도",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_nun"
+    },
+    {
+      "cat": "eri_nun",
+      "title": "황혼의 첨탑, 검은 날개의 서약",
+      "src": "images/eri/new/eri_nun/12.png",
+      "memo": "수녀복 컬렉션 · 황혼의 첨탑, 검은 날개의 서약",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_nun"
+    },
+    {
+      "cat": "eri_swim",
+      "title": "꽃비가 내리는 황금빛 산책",
+      "src": "images/eri/new/eri_swim/01.png",
+      "memo": "수영복 컬렉션 · 꽃비가 내리는 황금빛 산책",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_swim"
+    },
+    {
+      "cat": "eri_swim",
+      "title": "별이 흐르는 옥상의 쉼표",
+      "src": "images/eri/new/eri_swim/02.png",
+      "memo": "수영복 컬렉션 · 별이 흐르는 옥상의 쉼표",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_swim"
+    },
+    {
+      "cat": "eri_swim",
+      "title": "빗방울 너머의 오후",
+      "src": "images/eri/new/eri_swim/03.png",
+      "memo": "수영복 컬렉션 · 빗방울 너머의 오후",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_swim"
+    },
+    {
+      "cat": "eri_swim",
+      "title": "네온이 젖은 밤거리",
+      "src": "images/eri/new/eri_swim/04.png",
+      "memo": "수영복 컬렉션 · 네온이 젖은 밤거리",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_swim"
+    },
+    {
+      "cat": "eri_swim",
+      "title": "수영장 옆, 여름의 한 페이지",
+      "src": "images/eri/new/eri_swim/05.png",
+      "memo": "수영복 컬렉션 · 수영장 옆, 여름의 한 페이지",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_swim"
+    },
+    {
+      "cat": "eri_swim",
+      "title": "꽃향기 머무는 유리 온실",
+      "src": "images/eri/new/eri_swim/06.png",
+      "memo": "수영복 컬렉션 · 꽃향기 머무는 유리 온실",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_swim"
+    },
+    {
+      "cat": "eri_swim",
+      "title": "햇살이 건네는 작은 인사",
+      "src": "images/eri/new/eri_swim/07.png",
+      "memo": "수영복 컬렉션 · 햇살이 건네는 작은 인사",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_swim"
+    },
+    {
+      "cat": "eri_swim",
+      "title": "거울 속 황금빛 휴일",
+      "src": "images/eri/new/eri_swim/08.png",
+      "memo": "수영복 컬렉션 · 거울 속 황금빛 휴일",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_swim"
+    },
+    {
+      "cat": "eri_swim",
+      "title": "노을이 물드는 바다의 끝",
+      "src": "images/eri/new/eri_swim/09.png",
+      "memo": "수영복 컬렉션 · 노을이 물드는 바다의 끝",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_swim"
+    },
+    {
+      "cat": "eri_uniform",
+      "title": "네온 순찰, 도시의 첫 불빛",
+      "src": "images/eri/new/eri_uniform/01.png",
+      "memo": "제복 컬렉션 · 네온 순찰, 도시의 첫 불빛",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_uniform"
+    },
+    {
+      "cat": "eri_uniform",
+      "title": "비가 그친 거리의 경계선",
+      "src": "images/eri/new/eri_uniform/02.png",
+      "memo": "제복 컬렉션 · 비가 그친 거리의 경계선",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_uniform"
+    },
+    {
+      "cat": "eri_uniform",
+      "title": "빗속을 가르는 푸른 신호",
+      "src": "images/eri/new/eri_uniform/03.png",
+      "memo": "제복 컬렉션 · 빗속을 가르는 푸른 신호",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_uniform"
+    },
+    {
+      "cat": "eri_uniform",
+      "title": "새벽 근무의 창가",
+      "src": "images/eri/new/eri_uniform/04.png",
+      "memo": "제복 컬렉션 · 새벽 근무의 창가",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_uniform"
+    },
+    {
+      "cat": "eri_uniform",
+      "title": "야간 근무, 커피 한 잔",
+      "src": "images/eri/new/eri_uniform/05.png",
+      "memo": "제복 컬렉션 · 야간 근무, 커피 한 잔",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_uniform"
+    },
+    {
+      "cat": "eri_uniform",
+      "title": "순찰차 옆의 자신만만한 미소",
+      "src": "images/eri/new/eri_uniform/06.png",
+      "memo": "제복 컬렉션 · 순찰차 옆의 자신만만한 미소",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_uniform"
+    },
+    {
+      "cat": "eri_uniform",
+      "title": "해질녘 해안의 마지막 순찰",
+      "src": "images/eri/new/eri_uniform/07.png",
+      "memo": "제복 컬렉션 · 해질녘 해안의 마지막 순찰",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_uniform"
+    },
+    {
+      "cat": "eri_uniform",
+      "title": "황혼을 지키는 푸른 제복",
+      "src": "images/eri/new/eri_uniform/08.png",
+      "memo": "제복 컬렉션 · 황혼을 지키는 푸른 제복",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_uniform"
+    },
+    {
+      "cat": "eri_uniform",
+      "title": "바다와 도시 사이의 경계",
+      "src": "images/eri/new/eri_uniform/09.png",
+      "memo": "제복 컬렉션 · 바다와 도시 사이의 경계",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_uniform"
+    },
+    {
+      "cat": "rabu_senjougahara",
+      "title": "하늘에 흩어진 천 개의 문장",
+      "src": "images/rabu/new/rabu_senjougahara/01.png",
+      "memo": "센죠가하라 컬렉션 · 하늘에 흩어진 천 개의 문장",
+      "date": "2026.11",
+      "owner": "rabu",
+      "collection": "rabu_senjougahara"
+    },
+    {
+      "cat": "rabu_senjougahara",
+      "title": "문구가 떠오른 보랏빛 교실",
+      "src": "images/rabu/new/rabu_senjougahara/02.png",
+      "memo": "센죠가하라 컬렉션 · 문구가 떠오른 보랏빛 교실",
+      "date": "2026.11",
+      "owner": "rabu",
+      "collection": "rabu_senjougahara"
+    },
+    {
+      "cat": "rabu_senjougahara",
+      "title": "푸른 계단 끝에서 마주친 봄",
+      "src": "images/rabu/new/rabu_senjougahara/03.png",
+      "memo": "센죠가하라 컬렉션 · 푸른 계단 끝에서 마주친 봄",
+      "date": "2026.11",
+      "owner": "rabu",
+      "collection": "rabu_senjougahara"
+    },
+    {
+      "cat": "rabu_senjougahara",
+      "title": "보랏빛 교실의 조용한 시선",
+      "src": "images/rabu/new/rabu_senjougahara/04.png",
+      "memo": "센죠가하라 컬렉션 · 보랏빛 교실의 조용한 시선",
+      "date": "2026.11",
+      "owner": "rabu",
+      "collection": "rabu_senjougahara"
+    },
+    {
+      "cat": "rabu_senjougahara",
+      "title": "석양 옥상에 남겨 둔 말",
+      "src": "images/rabu/new/rabu_senjougahara/05.png",
+      "memo": "센죠가하라 컬렉션 · 석양 옥상에 남겨 둔 말",
+      "date": "2026.11",
+      "owner": "rabu",
+      "collection": "rabu_senjougahara"
+    },
+    {
+      "cat": "rabu_senjougahara",
+      "title": "하늘을 가르는 문구의 궤적",
+      "src": "images/rabu/new/rabu_senjougahara/06.png",
+      "memo": "센죠가하라 컬렉션 · 하늘을 가르는 문구의 궤적",
+      "date": "2026.11",
+      "owner": "rabu",
+      "collection": "rabu_senjougahara"
+    },
+    {
+      "cat": "rabu_daily",
+      "title": "거울 속에 사는 또 하나의 나",
+      "src": "images/rabu/new/rabu_daily/01.png",
+      "memo": "일상 컬렉션 · 거울 속에 사는 또 하나의 나",
+      "date": "2026.11",
+      "owner": "rabu",
+      "collection": "rabu_daily"
+    },
+    {
+      "cat": "rabu_daily",
+      "title": "달빛이 머무는 유령의 방",
+      "src": "images/rabu/new/rabu_daily/02.png",
+      "memo": "일상 컬렉션 · 달빛이 머무는 유령의 방",
+      "date": "2026.11",
+      "owner": "rabu",
+      "collection": "rabu_daily"
+    },
+    {
+      "cat": "rabu_daily",
+      "title": "새벽 두 시 사십칠 분의 한숨",
+      "src": "images/rabu/new/rabu_daily/03.png",
+      "memo": "일상 컬렉션 · 새벽 두 시 사십칠 분의 한숨",
+      "date": "2026.11",
+      "owner": "rabu",
+      "collection": "rabu_daily"
+    },
+    {
+      "cat": "rabu_daily",
+      "title": "서류 폭풍 속 작은 유령",
+      "src": "images/rabu/new/rabu_daily/04.png",
+      "memo": "일상 컬렉션 · 서류 폭풍 속 작은 유령",
+      "date": "2026.11",
+      "owner": "rabu",
+      "collection": "rabu_daily"
     }
   ],
   "version": "1.6",
@@ -1848,6 +2388,48 @@
       "subtitle": "DATE & DAYDREAM · 함께 걷는 하루",
       "description": "도시와 자연 사이, 나노와 함께한 다정한 장면",
       "icon": "💗"
+    },
+    "nunyo_pajama": {
+      "title": "잠옷",
+      "subtitle": "DREAMY PAJAMAS · 별빛 꿈나라",
+      "description": "포근한 잠옷과 구름, 눈요의 작은 밤하늘",
+      "icon": "☁️"
+    },
+    "yeowuyeon_princess": {
+      "title": "공주",
+      "subtitle": "PRINCESS · 장미빛 동화",
+      "description": "푸른 밤과 장미 정원에 피어난 여우연의 동화",
+      "icon": "👑"
+    },
+    "eri_nun": {
+      "title": "수녀복",
+      "subtitle": "GOTHIC CHAPEL · 검은 날개의 기도",
+      "description": "스테인드글라스와 달빛 아래 펼쳐지는 고딕 판타지",
+      "icon": "🕯️"
+    },
+    "eri_swim": {
+      "title": "수영복",
+      "subtitle": "SUMMER GLIMMER · 황금빛 계절",
+      "description": "햇살과 네온, 서로 다른 계절빛의 휴식",
+      "icon": "☀️"
+    },
+    "eri_uniform": {
+      "title": "제복",
+      "subtitle": "NIGHT PATROL · 도시의 수호자",
+      "description": "도시의 네온과 해안도로를 지키는 애리의 하루",
+      "icon": "🚨"
+    },
+    "rabu_senjougahara": {
+      "title": "센죠가하라",
+      "subtitle": "SENJOUGAHARA · 하늘을 가르는 문구",
+      "description": "문구가 떠오르는 교실과 옥상, 라브의 몽환적인 한 장면",
+      "icon": "✒️"
+    },
+    "rabu_daily": {
+      "title": "일상",
+      "subtitle": "GHOSTLY DAYS · 유령의 작은 하루",
+      "description": "보랏빛 방과 늦은 밤, 라브의 사소하고 특별한 시간",
+      "icon": "👻"
     }
   },
   "active_members": [
