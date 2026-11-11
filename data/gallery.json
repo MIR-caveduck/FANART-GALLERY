@@ -1361,10 +1361,415 @@
       "date": "2026.11",
       "owner": "seolhong",
       "collection": "zzz"
+    },
+    {
+      "cat": "nano_home",
+      "title": "네온빛에 잠든 작은 게임 왕국",
+      "src": "images/nano/new/nano_home/01.png",
+      "memo": "집순이 컬렉션 · 네온빛에 잠든 작은 게임 왕국",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_home"
+    },
+    {
+      "cat": "nano_home",
+      "title": "선율이 머무는 아늑한 오후",
+      "src": "images/nano/new/nano_home/02.png",
+      "memo": "집순이 컬렉션 · 선율이 머무는 아늑한 오후",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_home"
+    },
+    {
+      "cat": "nano_home",
+      "title": "별을 세다 마주친 여름밤",
+      "src": "images/nano/new/nano_home/03.png",
+      "memo": "집순이 컬렉션 · 별을 세다 마주친 여름밤",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_home"
+    },
+    {
+      "cat": "nano_home",
+      "title": "붉은 달이 내려앉은 옥상",
+      "src": "images/nano/new/nano_home/04.png",
+      "memo": "집순이 컬렉션 · 붉은 달이 내려앉은 옥상",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_home"
+    },
+    {
+      "cat": "nano_home",
+      "title": "빗방울 사이로 번진 장난기",
+      "src": "images/nano/new/nano_home/05.png",
+      "memo": "집순이 컬렉션 · 빗방울 사이로 번진 장난기",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_home"
+    },
+    {
+      "cat": "nano_home",
+      "title": "노을이 쉬어 가는 높은 곳",
+      "src": "images/nano/new/nano_home/06.png",
+      "memo": "집순이 컬렉션 · 노을이 쉬어 가는 높은 곳",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_home"
+    },
+    {
+      "cat": "nano_home",
+      "title": "장미 향기에 숨긴 작은 비밀",
+      "src": "images/nano/new/nano_home/07.png",
+      "memo": "집순이 컬렉션 · 장미 향기에 숨긴 작은 비밀",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_home"
+    },
+    {
+      "cat": "nano_nurse",
+      "title": "도시의 맥박을 지키는 밤",
+      "src": "images/nano/new/nano_nurse/01.png",
+      "memo": "간호사 컬렉션 · 도시의 맥박을 지키는 밤",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_nurse"
+    },
+    {
+      "cat": "nano_nurse",
+      "title": "달빛 처방전, 오늘의 안녕",
+      "src": "images/nano/new/nano_nurse/02.png",
+      "memo": "간호사 컬렉션 · 달빛 처방전, 오늘의 안녕",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_nurse"
+    },
+    {
+      "cat": "nano_nurse",
+      "title": "마법처럼 다정한 응급 호출",
+      "src": "images/nano/new/nano_nurse/03.png",
+      "memo": "간호사 컬렉션 · 마법처럼 다정한 응급 호출",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_nurse"
+    },
+    {
+      "cat": "nano_nurse",
+      "title": "미래의 진료실에 피어난 기적",
+      "src": "images/nano/new/nano_nurse/04.png",
+      "memo": "간호사 컬렉션 · 미래의 진료실에 피어난 기적",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_nurse"
+    },
+    {
+      "cat": "nano_nurse",
+      "title": "꽃잎 사이로 건네는 위로",
+      "src": "images/nano/new/nano_nurse/05.png",
+      "memo": "간호사 컬렉션 · 꽃잎 사이로 건네는 위로",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_nurse"
+    },
+    {
+      "cat": "nano_nurse",
+      "title": "분홍빛 휴식의 처방",
+      "src": "images/nano/new/nano_nurse/06.png",
+      "memo": "간호사 컬렉션 · 분홍빛 휴식의 처방",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_nurse"
+    },
+    {
+      "cat": "nano_nurse",
+      "title": "별빛 온실에서 잠시 쉬어 가요",
+      "src": "images/nano/new/nano_nurse/07.png",
+      "memo": "간호사 컬렉션 · 별빛 온실에서 잠시 쉬어 가요",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_nurse"
+    },
+    {
+      "cat": "nano_nurse",
+      "title": "새벽의 첫 빛을 건네는 천사",
+      "src": "images/nano/new/nano_nurse/08.png",
+      "memo": "간호사 컬렉션 · 새벽의 첫 빛을 건네는 천사",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_nurse"
+    },
+    {
+      "cat": "nano_nurse",
+      "title": "마음을 잇는 분홍빛 신호",
+      "src": "images/nano/new/nano_nurse/09.png",
+      "memo": "간호사 컬렉션 · 마음을 잇는 분홍빛 신호",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_nurse"
+    },
+    {
+      "cat": "nano_nurse",
+      "title": "하얀 날개 아래 작은 약속",
+      "src": "images/nano/new/nano_nurse/10.png",
+      "memo": "간호사 컬렉션 · 하얀 날개 아래 작은 약속",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_nurse"
+    },
+    {
+      "cat": "nano_school",
+      "title": "노을역에서 기다린 마지막 열차",
+      "src": "images/nano/new/nano_school/01.png",
+      "memo": "교복 컬렉션 · 노을역에서 기다린 마지막 열차",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_school"
+    },
+    {
+      "cat": "nano_school",
+      "title": "호숫가에 남긴 별 하나",
+      "src": "images/nano/new/nano_school/02.png",
+      "memo": "교복 컬렉션 · 호숫가에 남긴 별 하나",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_school"
+    },
+    {
+      "cat": "nano_school",
+      "title": "두 번째 별이 뜨는 자리",
+      "src": "images/nano/new/nano_school/03.png",
+      "memo": "교복 컬렉션 · 두 번째 별이 뜨는 자리",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_school"
+    },
+    {
+      "cat": "nano_school",
+      "title": "유리 너머 펼쳐진 푸른 세상",
+      "src": "images/nano/new/nano_school/04.png",
+      "memo": "교복 컬렉션 · 유리 너머 펼쳐진 푸른 세상",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_school"
+    },
+    {
+      "cat": "nano_school",
+      "title": "창가 자리의 달콤한 방과 후",
+      "src": "images/nano/new/nano_school/05.png",
+      "memo": "교복 컬렉션 · 창가 자리의 달콤한 방과 후",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_school"
+    },
+    {
+      "cat": "nano_school",
+      "title": "꽃계단 끝에서 마주친 봄",
+      "src": "images/nano/new/nano_school/06.png",
+      "memo": "교복 컬렉션 · 꽃계단 끝에서 마주친 봄",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_school"
+    },
+    {
+      "cat": "nano_school",
+      "title": "책장 사이에 숨은 작은 악마",
+      "src": "images/nano/new/nano_school/07.png",
+      "memo": "교복 컬렉션 · 책장 사이에 숨은 작은 악마",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_school"
+    },
+    {
+      "cat": "nano_school",
+      "title": "수국 향기 가득한 비밀 온실",
+      "src": "images/nano/new/nano_school/08.png",
+      "memo": "교복 컬렉션 · 수국 향기 가득한 비밀 온실",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_school"
+    },
+    {
+      "cat": "nano_date",
+      "title": "꽃향기 따라 찾아온 오후의 인사",
+      "src": "images/nano/new/nano_date/01.png",
+      "memo": "여친룩 컬렉션 · 꽃향기 따라 찾아온 오후의 인사",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_date"
+    },
+    {
+      "cat": "nano_date",
+      "title": "강바람이 머무는 황금빛 순간",
+      "src": "images/nano/new/nano_date/02.png",
+      "memo": "여친룩 컬렉션 · 강바람이 머무는 황금빛 순간",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_date"
+    },
+    {
+      "cat": "nano_date",
+      "title": "옥상 끝에 걸린 노을 한 조각",
+      "src": "images/nano/new/nano_date/03.png",
+      "memo": "여친룩 컬렉션 · 옥상 끝에 걸린 노을 한 조각",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_date"
+    },
+    {
+      "cat": "nano_date",
+      "title": "운하를 건너는 느긋한 저녁",
+      "src": "images/nano/new/nano_date/04.png",
+      "memo": "여친룩 컬렉션 · 운하를 건너는 느긋한 저녁",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_date"
+    },
+    {
+      "cat": "nano_date",
+      "title": "바닷바람과 날개의 약속",
+      "src": "images/nano/new/nano_date/05.png",
+      "memo": "여친룩 컬렉션 · 바닷바람과 날개의 약속",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_date"
+    },
+    {
+      "cat": "nano_date",
+      "title": "달빛 서가에서 펼친 마법의 한 페이지",
+      "src": "images/nano/new/nano_date/06.png",
+      "memo": "여친룩 컬렉션 · 달빛 서가에서 펼친 마법의 한 페이지",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_date"
+    },
+    {
+      "cat": "nano_date",
+      "title": "물 위에 겹쳐진 또 하나의 나노",
+      "src": "images/nano/new/nano_date/07.png",
+      "memo": "여친룩 컬렉션 · 물 위에 겹쳐진 또 하나의 나노",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_date"
+    },
+    {
+      "cat": "nano_date",
+      "title": "꽃길 너머 이어지는 작은 여행",
+      "src": "images/nano/new/nano_date/08.png",
+      "memo": "여친룩 컬렉션 · 꽃길 너머 이어지는 작은 여행",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_date"
+    },
+    {
+      "cat": "nano_date",
+      "title": "오르막 끝에서 건네는 미소",
+      "src": "images/nano/new/nano_date/09.png",
+      "memo": "여친룩 컬렉션 · 오르막 끝에서 건네는 미소",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_date"
+    },
+    {
+      "cat": "nano_date",
+      "title": "별빛 도시를 가로지르는 유리 상자",
+      "src": "images/nano/new/nano_date/10.png",
+      "memo": "여친룩 컬렉션 · 별빛 도시를 가로지르는 유리 상자",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_date"
+    },
+    {
+      "cat": "nano_date",
+      "title": "별을 품은 호수의 꿈",
+      "src": "images/nano/new/nano_date/11.png",
+      "memo": "여친룩 컬렉션 · 별을 품은 호수의 꿈",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_date"
+    },
+    {
+      "cat": "nano_date",
+      "title": "별이 가까워지는 산마루의 밤",
+      "src": "images/nano/new/nano_date/12.png",
+      "memo": "여친룩 컬렉션 · 별이 가까워지는 산마루의 밤",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_date"
+    },
+    {
+      "cat": "nano_date",
+      "title": "우산 아래 나눠 가진 빗소리",
+      "src": "images/nano/new/nano_date/13.png",
+      "memo": "여친룩 컬렉션 · 우산 아래 나눠 가진 빗소리",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_date"
+    },
+    {
+      "cat": "nano_date",
+      "title": "초록 온실에 예약된 두 사람의 오후",
+      "src": "images/nano/new/nano_date/14.png",
+      "memo": "여친룩 컬렉션 · 초록 온실에 예약된 두 사람의 오후",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_date"
+    },
+    {
+      "cat": "nano_date",
+      "title": "구름 위 첫 햇살을 마주하다",
+      "src": "images/nano/new/nano_date/15.png",
+      "memo": "여친룩 컬렉션 · 구름 위 첫 햇살을 마주하다",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_date"
+    },
+    {
+      "cat": "nano_date",
+      "title": "장미 계단에 남긴 장난스러운 눈짓",
+      "src": "images/nano/new/nano_date/16.png",
+      "memo": "여친룩 컬렉션 · 장미 계단에 남긴 장난스러운 눈짓",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_date"
+    },
+    {
+      "cat": "nano_date",
+      "title": "물빛 거울 속 해파리의 춤",
+      "src": "images/nano/new/nano_date/17.png",
+      "memo": "여친룩 컬렉션 · 물빛 거울 속 해파리의 춤",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_date"
+    },
+    {
+      "cat": "nano_date",
+      "title": "햇살이 고른 서점의 창가 자리",
+      "src": "images/nano/new/nano_date/18.png",
+      "memo": "여친룩 컬렉션 · 햇살이 고른 서점의 창가 자리",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_date"
+    },
+    {
+      "cat": "nano_date",
+      "title": "숲을 지나 너에게 가는 열차",
+      "src": "images/nano/new/nano_date/19.png",
+      "memo": "여친룩 컬렉션 · 숲을 지나 너에게 가는 열차",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_date"
+    },
+    {
+      "cat": "nano_date",
+      "title": "시골 정류장, 오늘도 반가워",
+      "src": "images/nano/new/nano_date/20.png",
+      "memo": "여친룩 컬렉션 · 시골 정류장, 오늘도 반가워",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_date"
     }
   ],
-  "version": 14,
-  "updated": "2026.09.16",
+  "version": "1.6",
+  "updated": "2026-11-11",
   "categories": {
     "fragments": {
       "title": "시간의 편린",
@@ -1397,9 +1802,9 @@
       "icon": "⚔️"
     },
     "bikini": {
-      "title": "비키니",
-      "subtitle": "BUNNY & NIGHT · 밤의 무대",
-      "description": "네온과 달빛 속에서 펼쳐지는 화려한 순간",
+      "title": "바니걸",
+      "subtitle": "BUNNY GIRL · 밤의 무대",
+      "description": "바니걸 설홍이 선보이는 네온과 달빛의 무대",
       "icon": "🌙"
     },
     "swimwear": {
@@ -1419,6 +1824,30 @@
       "subtitle": "ZENLESS ZONE ZERO · 도시의 에이전트",
       "description": "버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
       "icon": "⚡"
+    },
+    "nano_home": {
+      "title": "집순이",
+      "subtitle": "COZY & DREAMY · 나노의 작은 세계",
+      "description": "네온의 밤부터 고요한 방까지, 나노가 머무는 풍경",
+      "icon": "🏠"
+    },
+    "nano_nurse": {
+      "title": "간호사",
+      "subtitle": "HEALING HOURS · 치유의 시간",
+      "description": "몽환적인 의료 공간과 다정한 치유의 순간",
+      "icon": "🩺"
+    },
+    "nano_school": {
+      "title": "교복",
+      "subtitle": "SCHOOL DAYS · 빛나는 방과 후",
+      "description": "교복과 함께하는 평범하고도 특별한 하루",
+      "icon": "📚"
+    },
+    "nano_date": {
+      "title": "여친룩",
+      "subtitle": "DATE & DAYDREAM · 함께 걷는 하루",
+      "description": "도시와 자연 사이, 나노와 함께한 다정한 장면",
+      "icon": "💗"
     }
   },
   "active_members": [
