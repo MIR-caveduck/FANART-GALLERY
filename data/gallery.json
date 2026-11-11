@@ -486,7 +486,8 @@
       "memo": "",
       "date": "2026.11",
       "owner": "seolhong",
-      "collection": "bold_hanbok"
+      "collection": "bold_hanbok",
+      "maesil_pick": "노방종 진행중"
     },
     {
       "cat": "bold_hanbok",
@@ -555,7 +556,9 @@
       "memo": "",
       "date": "2026.11",
       "owner": "seolhong",
-      "collection": "bold_hanbok"
+      "collection": "bold_hanbok",
+      "maesil_pick": "하 오늘 비 오니까 매실이들 밖에 안나가겠지? 방송 때 많이 들어오겠네. 오늘 수금 좀 잘되겠는데? 어디슬슬 방송 켜보러 가볼까?",
+      "creator_pick": "홍등 아래, 봄비를 마시다"
     },
     {
       "cat": "bold_hanbok",
@@ -746,6 +749,618 @@
       "date": "2026.11",
       "owner": "seolhong",
       "collection": "hanbok_new"
+    },
+    {
+      "cat": "martial",
+      "title": "월하에 피어난 매화검",
+      "src": "images/seolhong/new/martial/01.png",
+      "memo": "붉은 매화가 물드는 강호의 장면들",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "martial"
+    },
+    {
+      "cat": "martial",
+      "title": "비파 선율이 머무는 호수",
+      "src": "images/seolhong/new/martial/02.png",
+      "memo": "붉은 매화가 물드는 강호의 장면들",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "martial"
+    },
+    {
+      "cat": "martial",
+      "title": "홍등 아래, 강호의 밤",
+      "src": "images/seolhong/new/martial/03.png",
+      "memo": "붉은 매화가 물드는 강호의 장면들",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "martial"
+    },
+    {
+      "cat": "martial",
+      "title": "등불 끝에 걸린 작은 미소",
+      "src": "images/seolhong/new/martial/04.png",
+      "memo": "붉은 매화가 물드는 강호의 장면들",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "martial"
+    },
+    {
+      "cat": "martial",
+      "title": "봄밤의 주루, 잠시 쉬어가는 길",
+      "src": "images/seolhong/new/martial/05.png",
+      "memo": "붉은 매화가 물드는 강호의 장면들",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "martial"
+    },
+    {
+      "cat": "martial",
+      "title": "붉은 꽃진을 펼치는 무녀",
+      "src": "images/seolhong/new/martial/06.png",
+      "memo": "붉은 매화가 물드는 강호의 장면들",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "martial"
+    },
+    {
+      "cat": "martial",
+      "title": "홍등 아래 번지는 장난기",
+      "src": "images/seolhong/new/martial/07.png",
+      "memo": "붉은 매화가 물드는 강호의 장면들",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "martial"
+    },
+    {
+      "cat": "martial",
+      "title": "빗속에 숨은 매화의 칼날",
+      "src": "images/seolhong/new/martial/08.png",
+      "memo": "붉은 매화가 물드는 강호의 장면들",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "martial"
+    },
+    {
+      "cat": "martial",
+      "title": "설산을 건너는 붉은 발걸음",
+      "src": "images/seolhong/new/martial/09.png",
+      "memo": "붉은 매화가 물드는 강호의 장면들",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "martial"
+    },
+    {
+      "cat": "martial",
+      "title": "적매비검, 바람을 가르다",
+      "src": "images/seolhong/new/martial/10.png",
+      "memo": "붉은 매화가 물드는 강호의 장면들",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "martial"
+    },
+    {
+      "cat": "martial",
+      "title": "매화권홍, 천하에 이름을 새기다",
+      "src": "images/seolhong/new/martial/11.png",
+      "memo": "붉은 매화가 물드는 강호의 장면들",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "martial"
+    },
+    {
+      "cat": "martial",
+      "title": "꽃잎을 딛고 오르는 신의",
+      "src": "images/seolhong/new/martial/12.png",
+      "memo": "붉은 매화가 물드는 강호의 장면들",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "martial"
+    },
+    {
+      "cat": "martial",
+      "title": "황금 기계도시의 비밀 설계자",
+      "src": "images/seolhong/new/martial/13.png",
+      "memo": "붉은 매화가 물드는 강호의 장면들",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "martial"
+    },
+    {
+      "cat": "bikini",
+      "title": "네온 골목의 비밀스러운 초대",
+      "src": "images/seolhong/new/bikini/01.png",
+      "memo": "네온과 달빛 속에서 펼쳐지는 화려한 순간",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "bikini"
+    },
+    {
+      "cat": "bikini",
+      "title": "밤의 옥상, 장난스러운 눈맞춤",
+      "src": "images/seolhong/new/bikini/02.png",
+      "memo": "네온과 달빛 속에서 펼쳐지는 화려한 순간",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "bikini"
+    },
+    {
+      "cat": "bikini",
+      "title": "달빛 라운지의 건배",
+      "src": "images/seolhong/new/bikini/03.png",
+      "memo": "네온과 달빛 속에서 펼쳐지는 화려한 순간",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "bikini"
+    },
+    {
+      "cat": "bikini",
+      "title": "달 아래 둘만의 스카이라운지",
+      "src": "images/seolhong/new/bikini/04.png",
+      "memo": "네온과 달빛 속에서 펼쳐지는 화려한 순간",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "bikini"
+    },
+    {
+      "cat": "bikini",
+      "title": "도시의 불빛을 마주한 밤",
+      "src": "images/seolhong/new/bikini/05.png",
+      "memo": "네온과 달빛 속에서 펼쳐지는 화려한 순간",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "bikini"
+    },
+    {
+      "cat": "bikini",
+      "title": "비 내리는 장미 회랑의 발걸음",
+      "src": "images/seolhong/new/bikini/06.png",
+      "memo": "네온과 달빛 속에서 펼쳐지는 화려한 순간",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "bikini"
+    },
+    {
+      "cat": "bikini",
+      "title": "황금 거울 앞의 마지막 단장",
+      "src": "images/seolhong/new/bikini/07.png",
+      "memo": "네온과 달빛 속에서 펼쳐지는 화려한 순간",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "bikini"
+    },
+    {
+      "cat": "bikini",
+      "title": "행운을 나누는 붉은 딜러",
+      "src": "images/seolhong/new/bikini/08.png",
+      "memo": "네온과 달빛 속에서 펼쳐지는 화려한 순간",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "bikini"
+    },
+    {
+      "cat": "bikini",
+      "title": "황금 계단 위의 밤의 주인공",
+      "src": "images/seolhong/new/bikini/09.png",
+      "memo": "네온과 달빛 속에서 펼쳐지는 화려한 순간",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "bikini"
+    },
+    {
+      "cat": "bikini",
+      "title": "샹들리에 아래, 화려한 첫인사",
+      "src": "images/seolhong/new/bikini/10.png",
+      "memo": "네온과 달빛 속에서 펼쳐지는 화려한 순간",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "bikini"
+    },
+    {
+      "cat": "swimwear",
+      "title": "노을 카니발에 머문 여름",
+      "src": "images/seolhong/new/swimwear/01.png",
+      "memo": "여름빛 풍경 속 설홍의 휴식과 산책",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "swimwear"
+    },
+    {
+      "cat": "swimwear",
+      "title": "바닷길 끝, 다음 역은 여름",
+      "src": "images/seolhong/new/swimwear/02.png",
+      "memo": "여름빛 풍경 속 설홍의 휴식과 산책",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "swimwear"
+    },
+    {
+      "cat": "swimwear",
+      "title": "꽃이 감싼 궁전의 산책",
+      "src": "images/seolhong/new/swimwear/03.png",
+      "memo": "여름빛 풍경 속 설홍의 휴식과 산책",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "swimwear"
+    },
+    {
+      "cat": "swimwear",
+      "title": "별빛 온실에서 발견한 비밀",
+      "src": "images/seolhong/new/swimwear/04.png",
+      "memo": "여름빛 풍경 속 설홍의 휴식과 산책",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "swimwear"
+    },
+    {
+      "cat": "swimwear",
+      "title": "등대를 따라 걷는 오후",
+      "src": "images/seolhong/new/swimwear/05.png",
+      "memo": "여름빛 풍경 속 설홍의 휴식과 산책",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "swimwear"
+    },
+    {
+      "cat": "swimwear",
+      "title": "연꽃 연못에 내려앉은 햇살",
+      "src": "images/seolhong/new/swimwear/06.png",
+      "memo": "여름빛 풍경 속 설홍의 휴식과 산책",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "swimwear"
+    },
+    {
+      "cat": "swimwear",
+      "title": "꽃시장 골목의 여름 인사",
+      "src": "images/seolhong/new/swimwear/07.png",
+      "memo": "여름빛 풍경 속 설홍의 휴식과 산책",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "swimwear"
+    },
+    {
+      "cat": "swimwear",
+      "title": "바다 테라스, 눈부신 휴식",
+      "src": "images/seolhong/new/swimwear/08.png",
+      "memo": "여름빛 풍경 속 설홍의 휴식과 산책",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "swimwear"
+    },
+    {
+      "cat": "activewear",
+      "title": "해 질 무렵, 옥상에서의 숨 고르기",
+      "src": "images/seolhong/new/activewear/01.png",
+      "memo": "도시와 자연을 가로지르는 생동감 있는 일상",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "activewear"
+    },
+    {
+      "cat": "activewear",
+      "title": "바닷바람을 따라 선 절벽",
+      "src": "images/seolhong/new/activewear/02.png",
+      "memo": "도시와 자연을 가로지르는 생동감 있는 일상",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "activewear"
+    },
+    {
+      "cat": "activewear",
+      "title": "꽃잎 흩날리는 계단의 초대",
+      "src": "images/seolhong/new/activewear/03.png",
+      "memo": "도시와 자연을 가로지르는 생동감 있는 일상",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "activewear"
+    },
+    {
+      "cat": "activewear",
+      "title": "봄의 터널을 지나 너에게",
+      "src": "images/seolhong/new/activewear/04.png",
+      "memo": "도시와 자연을 가로지르는 생동감 있는 일상",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "activewear"
+    },
+    {
+      "cat": "activewear",
+      "title": "별을 가리키는 밤의 약속",
+      "src": "images/seolhong/new/activewear/05.png",
+      "memo": "도시와 자연을 가로지르는 생동감 있는 일상",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "activewear"
+    },
+    {
+      "cat": "activewear",
+      "title": "비 그친 네온 거리의 도약",
+      "src": "images/seolhong/new/activewear/06.png",
+      "memo": "도시와 자연을 가로지르는 생동감 있는 일상",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "activewear"
+    },
+    {
+      "cat": "activewear",
+      "title": "카페 창가에 내려앉은 오후",
+      "src": "images/seolhong/new/activewear/07.png",
+      "memo": "도시와 자연을 가로지르는 생동감 있는 일상",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "activewear"
+    },
+    {
+      "cat": "activewear",
+      "title": "온실에서 건네는 꽃다발",
+      "src": "images/seolhong/new/activewear/08.png",
+      "memo": "도시와 자연을 가로지르는 생동감 있는 일상",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "activewear"
+    },
+    {
+      "cat": "zzz",
+      "title": "네온을 가르는 화염의 시선",
+      "src": "images/seolhong/new/zzz/01.png",
+      "memo": "버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "화염 장비와 장난스러운 미소",
+      "src": "images/seolhong/new/zzz/02.png",
+      "memo": "버니스 코스프레 · 버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "작전 전, 불꽃을 손질하는 시간",
+      "src": "images/seolhong/new/zzz/03.png",
+      "memo": "버니스 코스프레 · 버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "화염을 장전한 붉은 에이전트",
+      "src": "images/seolhong/new/zzz/04.png",
+      "memo": "버니스 코스프레 · 버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "불꽃이 번지는 전장의 순간",
+      "src": "images/seolhong/new/zzz/05.png",
+      "memo": "버니스 코스프레 · 버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "붉은 궤적, 화염의 한 발",
+      "src": "images/seolhong/new/zzz/06.png",
+      "memo": "버니스 코스프레 · 버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "도시의 불꽃을 닮은 두 갈래 머리",
+      "src": "images/seolhong/new/zzz/07.png",
+      "memo": "버니스 코스프레 · 버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "차고의 오후, 출격을 기다리며",
+      "src": "images/seolhong/new/zzz/08.png",
+      "memo": "버니스 코스프레 · 버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "불꽃 너머로 겨눈 승부",
+      "src": "images/seolhong/new/zzz/09.png",
+      "memo": "버니스 코스프레 · 버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "화염 속으로 뛰어드는 설홍",
+      "src": "images/seolhong/new/zzz/10.png",
+      "memo": "버니스 코스프레 · 버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "옥상 위, 검끝에 스친 붉은 꽃잎",
+      "src": "images/seolhong/new/zzz/11.png",
+      "memo": "버니스 코스프레 · 버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "매화빛 검객의 고요한 시선",
+      "src": "images/seolhong/new/zzz/12.png",
+      "memo": "버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "네온 통신망 너머의 암호",
+      "src": "images/seolhong/new/zzz/13.png",
+      "memo": "야나기 코스프레 · 버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "미래 도시의 검무",
+      "src": "images/seolhong/new/zzz/14.png",
+      "memo": "야나기 코스프레 · 버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "푸른 검날에 실린 한순간",
+      "src": "images/seolhong/new/zzz/15.png",
+      "memo": "야나기 코스프레 · 버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "연결된 신호, 붉은 꽃의 잔상",
+      "src": "images/seolhong/new/zzz/16.png",
+      "memo": "야나기 코스프레 · 버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "검과 매화의 에이전트 기록",
+      "src": "images/seolhong/new/zzz/17.png",
+      "memo": "야나기 코스프레 · 버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "도심 발코니에 내려앉은 달",
+      "src": "images/seolhong/new/zzz/18.png",
+      "memo": "야나기 코스프레 · 버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "달빛과 홍매화의 초상",
+      "src": "images/seolhong/new/zzz/19.png",
+      "memo": "야나기 코스프레 · 버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "밤의 선율, 홍매화 피아노",
+      "src": "images/seolhong/new/zzz/20.png",
+      "memo": "이블린 코스프레 · 버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "달 아래 피어난 우아한 미소",
+      "src": "images/seolhong/new/zzz/21.png",
+      "memo": "이블린 코스프레 · 버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "붉은 꽃 장식의 비밀 임무",
+      "src": "images/seolhong/new/zzz/22.png",
+      "memo": "이블린 코스프레 · 버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "고요한 시선, 밤의 에이전트",
+      "src": "images/seolhong/new/zzz/23.png",
+      "memo": "이블린 코스프레 · 버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "작전 파일: 붉은 그림자",
+      "src": "images/seolhong/new/zzz/24.png",
+      "memo": "이블린 코스프레 · 버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "홍매화 아래의 여왕",
+      "src": "images/seolhong/new/zzz/25.png",
+      "memo": "이블린 코스프레 · 버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "매화빛 라운지의 한 장면",
+      "src": "images/seolhong/new/zzz/26.png",
+      "memo": "이블린 코스프레 · 버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "황금 계단을 내려오는 밤",
+      "src": "images/seolhong/new/zzz/27.png",
+      "memo": "이블린 코스프레 · 버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "매화가 흐르는 계절, 설홍의 등장",
+      "src": "images/seolhong/new/zzz/28.png",
+      "memo": "이블린 코스프레 · 버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
+    },
+    {
+      "cat": "zzz",
+      "title": "설홍과 매실이, 에이전트의 첫 기록",
+      "src": "images/seolhong/new/zzz/29.png",
+      "memo": "이블린 코스프레 · 버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "zzz"
     }
   ],
   "version": 14,
@@ -774,6 +1389,36 @@
       "subtitle": "HANBOK · 고운 옷자락",
       "description": "설홍의 새로운 한복 일러스트 컬렉션",
       "icon": "🎐"
+    },
+    "martial": {
+      "title": "무협",
+      "subtitle": "MARTIAL ARTS · 검과 매화의 서사",
+      "description": "붉은 매화가 물드는 강호의 장면들",
+      "icon": "⚔️"
+    },
+    "bikini": {
+      "title": "비키니",
+      "subtitle": "BUNNY & NIGHT · 밤의 무대",
+      "description": "네온과 달빛 속에서 펼쳐지는 화려한 순간",
+      "icon": "🌙"
+    },
+    "swimwear": {
+      "title": "수영복",
+      "subtitle": "SUMMER · 햇살의 조각",
+      "description": "여름빛 풍경 속 설홍의 휴식과 산책",
+      "icon": "☀️"
+    },
+    "activewear": {
+      "title": "운동복",
+      "subtitle": "ACTIVE DAYS · 움직이는 계절",
+      "description": "도시와 자연을 가로지르는 생동감 있는 일상",
+      "icon": "✦"
+    },
+    "zzz": {
+      "title": "젠레스 존 제로",
+      "subtitle": "ZENLESS ZONE ZERO · 도시의 에이전트",
+      "description": "버니스 · 야나기 · 이블린, 설홍의 새로운 무대",
+      "icon": "⚡"
     }
   },
   "active_members": [

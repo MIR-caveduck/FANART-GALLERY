@@ -2,12 +2,12 @@ const id=document.body.dataset.member,base="../../";let all=[],active=[],selecte
 const $=x=>document.getElementById(x);
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const memberNames={seolhong:"설홍",eri:"최애리",nunyo:"눈요",yeowuyeon:"여우연",nano:"나노",rabu:"라브"};
-const niceOrder=["bold_hanbok","fantasy_new","hanbok_new"];
+const niceOrder=["martial","bikini","swimwear","activewear","zzz","bold_hanbok","fantasy_new","hanbok_new"];
 let groups=[];
 fetch(base+"data/gallery.json").then(r=>{if(!r.ok)throw Error("데이터를 불러오지 못했습니다");return r.json()}).then(data=>{
  all=data.items.filter(x=>x.owner===id);if(id==="rabu")all=[];
  groups=Object.entries(data.categories).filter(([key])=>all.some(x=>x.collection===key)).sort(([a],[b])=>{
-  if(a==="fragments")return 1;if(b==="fragments")return -1;
+  if(a==="fragments"&&b!=="fragments")return 1;if(b==="fragments"&&a!=="fragments")return -1;
   return (niceOrder.indexOf(a)<0?99:niceOrder.indexOf(a))-(niceOrder.indexOf(b)<0?99:niceOrder.indexOf(b));
  });
  if(!groups.length)groups=[["fragments",data.categories.fragments]];
