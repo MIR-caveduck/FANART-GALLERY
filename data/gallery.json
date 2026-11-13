@@ -2306,10 +2306,568 @@
       "date": "2026.11",
       "owner": "rabu",
       "collection": "rabu_daily"
+    },
+    {
+      "cat": "nano_swim",
+      "title": "꽃빛 등대에서 만난 여름",
+      "src": "images/nano/new/nano_swim/01.png",
+      "memo": "수영복 컬렉션 · 꽃빛 등대에서 만난 여름",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_swim"
+    },
+    {
+      "cat": "nano_swim",
+      "title": "여름 바캉스 의상 설정자료집",
+      "src": "images/nano/new/nano_swim/02.png",
+      "memo": "수영복 컬렉션 · 여름 바캉스 의상 설정자료집",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_swim"
+    },
+    {
+      "cat": "nano_swim",
+      "title": "붉고 검은 여름의 실루엣",
+      "src": "images/nano/new/nano_swim/03.png",
+      "memo": "수영복 컬렉션 · 붉고 검은 여름의 실루엣",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_swim"
+    },
+    {
+      "cat": "nano_swim",
+      "title": "노을이 내려앉은 해변 리조트",
+      "src": "images/nano/new/nano_swim/04.png",
+      "memo": "수영복 컬렉션 · 노을이 내려앉은 해변 리조트",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_swim"
+    },
+    {
+      "cat": "nano_swim",
+      "title": "불꽃놀이 아래 여름밤",
+      "src": "images/nano/new/nano_swim/05.png",
+      "memo": "수영복 컬렉션 · 불꽃놀이 아래 여름밤",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_swim"
+    },
+    {
+      "cat": "nano_swim",
+      "title": "비 갠 바닷가 카페의 노을",
+      "src": "images/nano/new/nano_swim/06.png",
+      "memo": "수영복 컬렉션 · 비 갠 바닷가 카페의 노을",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_swim"
+    },
+    {
+      "cat": "nano_swim",
+      "title": "햇살 가득한 열대의 부두",
+      "src": "images/nano/new/nano_swim/07.png",
+      "memo": "수영복 컬렉션 · 햇살 가득한 열대의 부두",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_swim"
+    },
+    {
+      "cat": "nano_swim",
+      "title": "지중해 절벽 위 곤돌라 여행",
+      "src": "images/nano/new/nano_swim/08.png",
+      "memo": "수영복 컬렉션 · 지중해 절벽 위 곤돌라 여행",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_swim"
+    },
+    {
+      "cat": "nano_swim",
+      "title": "푸른 바다를 담은 여름 초상",
+      "src": "images/nano/new/nano_swim/09.png",
+      "memo": "수영복 컬렉션 · 푸른 바다를 담은 여름 초상",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_swim"
+    },
+    {
+      "cat": "nano_swim",
+      "title": "해안 절벽 끝의 전망대",
+      "src": "images/nano/new/nano_swim/10.png",
+      "memo": "수영복 컬렉션 · 해안 절벽 끝의 전망대",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_swim"
+    },
+    {
+      "cat": "nano_swim",
+      "title": "햇빛이 스며드는 바닷가 동굴",
+      "src": "images/nano/new/nano_swim/11.png",
+      "memo": "수영복 컬렉션 · 햇빛이 스며드는 바닷가 동굴",
+      "date": "2026.11",
+      "owner": "nano",
+      "collection": "nano_swim"
+    },
+    {
+      "cat": "seolhong_astra",
+      "title": "네온 야경에 빛나는 별의 무대",
+      "src": "images/seolhong/new/seolhong_astra/01.png",
+      "memo": "젠레스 존 제로 · 아스트라 컬렉션 · 네온 야경에 빛나는 별의 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "seolhong_astra"
+    },
+    {
+      "cat": "seolhong_astra",
+      "title": "달빛 아래 매화의 노래",
+      "src": "images/seolhong/new/seolhong_astra/02.png",
+      "memo": "젠레스 존 제로 · 아스트라 컬렉션 · 달빛 아래 매화의 노래",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "seolhong_astra"
+    },
+    {
+      "cat": "seolhong_astra",
+      "title": "꽃잎이 흩날리는 붉은 무대",
+      "src": "images/seolhong/new/seolhong_astra/03.png",
+      "memo": "젠레스 존 제로 · 아스트라 컬렉션 · 꽃잎이 흩날리는 붉은 무대",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "seolhong_astra"
+    },
+    {
+      "cat": "seolhong_astra",
+      "title": "별빛 레드카펫의 주인공",
+      "src": "images/seolhong/new/seolhong_astra/04.png",
+      "memo": "젠레스 존 제로 · 아스트라 컬렉션 · 별빛 레드카펫의 주인공",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "seolhong_astra"
+    },
+    {
+      "cat": "seolhong_astra",
+      "title": "무대 조명 아래 붉은 초상",
+      "src": "images/seolhong/new/seolhong_astra/05.png",
+      "memo": "젠레스 존 제로 · 아스트라 컬렉션 · 무대 조명 아래 붉은 초상",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "seolhong_astra"
+    },
+    {
+      "cat": "seolhong_astra",
+      "title": "설홍의 반짝이는 팬 사인회",
+      "src": "images/seolhong/new/seolhong_astra/06.png",
+      "memo": "젠레스 존 제로 · 아스트라 컬렉션 · 설홍의 반짝이는 팬 사인회",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "seolhong_astra"
+    },
+    {
+      "cat": "seolhong_astra",
+      "title": "황금빛 무대의 쇼케이스",
+      "src": "images/seolhong/new/seolhong_astra/07.png",
+      "memo": "젠레스 존 제로 · 아스트라 컬렉션 · 황금빛 무대의 쇼케이스",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "seolhong_astra"
+    },
+    {
+      "cat": "seolhong_astra",
+      "title": "드레싱룸 거울 앞의 설렘",
+      "src": "images/seolhong/new/seolhong_astra/08.png",
+      "memo": "젠레스 존 제로 · 아스트라 컬렉션 · 드레싱룸 거울 앞의 설렘",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "seolhong_astra"
+    },
+    {
+      "cat": "seolhong_astra",
+      "title": "스포트라이트 속 붉은 노래",
+      "src": "images/seolhong/new/seolhong_astra/09.png",
+      "memo": "젠레스 존 제로 · 아스트라 컬렉션 · 스포트라이트 속 붉은 노래",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "seolhong_astra"
+    },
+    {
+      "cat": "seolhong_astra",
+      "title": "화려한 무도회의 한 장면",
+      "src": "images/seolhong/new/seolhong_astra/10.png",
+      "memo": "젠레스 존 제로 · 아스트라 컬렉션 · 화려한 무도회의 한 장면",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "seolhong_astra"
+    },
+    {
+      "cat": "seolhong_astra",
+      "title": "황금빛 재즈 클럽의 밤",
+      "src": "images/seolhong/new/seolhong_astra/11.png",
+      "memo": "젠레스 존 제로 · 아스트라 컬렉션 · 황금빛 재즈 클럽의 밤",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "seolhong_astra"
+    },
+    {
+      "cat": "seolhong_yixuan",
+      "title": "네온 골목에 흐르는 매화 선율",
+      "src": "images/seolhong/new/seolhong_yixuan/01.png",
+      "memo": "젠레스 존 제로 · 의현 컬렉션 · 네온 골목에 흐르는 매화 선율",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "seolhong_yixuan"
+    },
+    {
+      "cat": "seolhong_yixuan",
+      "title": "네온 도시의 매화 찻집",
+      "src": "images/seolhong/new/seolhong_yixuan/02.png",
+      "memo": "젠레스 존 제로 · 의현 컬렉션 · 네온 도시의 매화 찻집",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "seolhong_yixuan"
+    },
+    {
+      "cat": "seolhong_yixuan",
+      "title": "신도시에 울려 퍼진 해금 소리",
+      "src": "images/seolhong/new/seolhong_yixuan/03.png",
+      "memo": "젠레스 존 제로 · 의현 컬렉션 · 신도시에 울려 퍼진 해금 소리",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "seolhong_yixuan"
+    },
+    {
+      "cat": "seolhong_yixuan",
+      "title": "매화 장식과 해금의 초상",
+      "src": "images/seolhong/new/seolhong_yixuan/04.png",
+      "memo": "젠레스 존 제로 · 의현 컬렉션 · 매화 장식과 해금의 초상",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "seolhong_yixuan"
+    },
+    {
+      "cat": "seolhong_yixuan",
+      "title": "매화빛 선율의 연주자",
+      "src": "images/seolhong/new/seolhong_yixuan/05.png",
+      "memo": "젠레스 존 제로 · 의현 컬렉션 · 매화빛 선율의 연주자",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "seolhong_yixuan"
+    },
+    {
+      "cat": "seolhong_yixuan",
+      "title": "밤의 광장에 울리는 선율",
+      "src": "images/seolhong/new/seolhong_yixuan/06.png",
+      "memo": "젠레스 존 제로 · 의현 컬렉션 · 밤의 광장에 울리는 선율",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "seolhong_yixuan"
+    },
+    {
+      "cat": "seolhong_yixuan",
+      "title": "비 내리는 네온 거리의 매화",
+      "src": "images/seolhong/new/seolhong_yixuan/07.png",
+      "memo": "젠레스 존 제로 · 의현 컬렉션 · 비 내리는 네온 거리의 매화",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "seolhong_yixuan"
+    },
+    {
+      "cat": "seolhong_yixuan",
+      "title": "석양이 물든 신에리두의 선율",
+      "src": "images/seolhong/new/seolhong_yixuan/08.png",
+      "memo": "젠레스 존 제로 · 의현 컬렉션 · 석양이 물든 신에리두의 선율",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "seolhong_yixuan"
+    },
+    {
+      "cat": "seolhong_yixuan",
+      "title": "설홍의 매화 해금 연주",
+      "src": "images/seolhong/new/seolhong_yixuan/09.png",
+      "memo": "젠레스 존 제로 · 의현 컬렉션 · 설홍의 매화 해금 연주",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "seolhong_yixuan"
+    },
+    {
+      "cat": "seolhong_yixuan",
+      "title": "폐허를 가르는 해금의 울림",
+      "src": "images/seolhong/new/seolhong_yixuan/10.png",
+      "memo": "젠레스 존 제로 · 의현 컬렉션 · 폐허를 가르는 해금의 울림",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "seolhong_yixuan"
+    },
+    {
+      "cat": "seolhong_yixuan",
+      "title": "황금빛으로 번지는 마지막 선율",
+      "src": "images/seolhong/new/seolhong_yixuan/11.png",
+      "memo": "젠레스 존 제로 · 의현 컬렉션 · 황금빛으로 번지는 마지막 선율",
+      "date": "2026.11",
+      "owner": "seolhong",
+      "collection": "seolhong_yixuan"
+    },
+    {
+      "cat": "eri_menhera",
+      "title": "고딕 세일러의 따스한 오후",
+      "src": "images/eri/new/eri_menhera/01.png",
+      "memo": "멘헤라 컬렉션 · 고딕 세일러의 따스한 오후",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_menhera"
+    },
+    {
+      "cat": "eri_menhera",
+      "title": "분홍빛 방에서의 티타임",
+      "src": "images/eri/new/eri_menhera/02.png",
+      "memo": "멘헤라 컬렉션 · 분홍빛 방에서의 티타임",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_menhera"
+    },
+    {
+      "cat": "eri_menhera",
+      "title": "분홍빛 거울에 비친 작은 악마",
+      "src": "images/eri/new/eri_menhera/03.png",
+      "memo": "멘헤라 컬렉션 · 분홍빛 거울에 비친 작은 악마",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_menhera"
+    },
+    {
+      "cat": "eri_menhera",
+      "title": "핑크빛 고딕의 하루",
+      "src": "images/eri/new/eri_menhera/04.png",
+      "memo": "멘헤라 컬렉션 · 핑크빛 고딕의 하루",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_menhera"
+    },
+    {
+      "cat": "eri_menhera",
+      "title": "네온 도시를 바라보는 밤",
+      "src": "images/eri/new/eri_menhera/05.png",
+      "memo": "멘헤라 컬렉션 · 네온 도시를 바라보는 밤",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_menhera"
+    },
+    {
+      "cat": "eri_menhera",
+      "title": "흰 머리 고딕 소녀의 초상",
+      "src": "images/eri/new/eri_menhera/06.png",
+      "memo": "멘헤라 컬렉션 · 흰 머리 고딕 소녀의 초상",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_menhera"
+    },
+    {
+      "cat": "eri_menhera",
+      "title": "붉은 네온 계단의 초대",
+      "src": "images/eri/new/eri_menhera/07.png",
+      "memo": "멘헤라 컬렉션 · 붉은 네온 계단의 초대",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_menhera"
+    },
+    {
+      "cat": "eri_menhera",
+      "title": "붉은 달 아래 검은 날개",
+      "src": "images/eri/new/eri_menhera/08.png",
+      "memo": "멘헤라 컬렉션 · 붉은 달 아래 검은 날개",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_menhera"
+    },
+    {
+      "cat": "eri_menhera",
+      "title": "멘헤라 서큐버스 설정자료집",
+      "src": "images/eri/new/eri_menhera/09.png",
+      "memo": "멘헤라 컬렉션 · 멘헤라 서큐버스 설정자료집",
+      "date": "2026.11",
+      "owner": "eri",
+      "collection": "eri_menhera"
+    },
+    {
+      "cat": "yeowuyeon_school",
+      "title": "숲의 신목 아래 여우의 기도",
+      "src": "images/yeowuyeon/new/yeowuyeon_school/01.png",
+      "memo": "교복 컬렉션 · 숲의 신목 아래 여우의 기도",
+      "date": "2026.11",
+      "owner": "yeowuyeon",
+      "collection": "yeowuyeon_school"
+    },
+    {
+      "cat": "yeowuyeon_school",
+      "title": "달빛 신사의 작은 축제",
+      "src": "images/yeowuyeon/new/yeowuyeon_school/02.png",
+      "memo": "교복 컬렉션 · 달빛 신사의 작은 축제",
+      "date": "2026.11",
+      "owner": "yeowuyeon",
+      "collection": "yeowuyeon_school"
+    },
+    {
+      "cat": "yeowuyeon_school",
+      "title": "달빛 아래 고요한 정자",
+      "src": "images/yeowuyeon/new/yeowuyeon_school/03.png",
+      "memo": "교복 컬렉션 · 달빛 아래 고요한 정자",
+      "date": "2026.11",
+      "owner": "yeowuyeon",
+      "collection": "yeowuyeon_school"
+    },
+    {
+      "cat": "yeowuyeon_school",
+      "title": "벚꽃 신전에 내려앉은 달빛",
+      "src": "images/yeowuyeon/new/yeowuyeon_school/04.png",
+      "memo": "교복 컬렉션 · 벚꽃 신전에 내려앉은 달빛",
+      "date": "2026.11",
+      "owner": "yeowuyeon",
+      "collection": "yeowuyeon_school"
+    },
+    {
+      "cat": "yeowuyeon_school",
+      "title": "벚꽃 달빛 아래의 서재",
+      "src": "images/yeowuyeon/new/yeowuyeon_school/05.png",
+      "memo": "교복 컬렉션 · 벚꽃 달빛 아래의 서재",
+      "date": "2026.11",
+      "owner": "yeowuyeon",
+      "collection": "yeowuyeon_school"
+    },
+    {
+      "cat": "yeowuyeon_school",
+      "title": "봄날 신사에서의 초대",
+      "src": "images/yeowuyeon/new/yeowuyeon_school/06.png",
+      "memo": "교복 컬렉션 · 봄날 신사에서의 초대",
+      "date": "2026.11",
+      "owner": "yeowuyeon",
+      "collection": "yeowuyeon_school"
+    },
+    {
+      "cat": "yeowuyeon_school",
+      "title": "벚꽃 정원에 머무는 오후",
+      "src": "images/yeowuyeon/new/yeowuyeon_school/07.png",
+      "memo": "교복 컬렉션 · 벚꽃 정원에 머무는 오후",
+      "date": "2026.11",
+      "owner": "yeowuyeon",
+      "collection": "yeowuyeon_school"
+    },
+    {
+      "cat": "yeowuyeon_school",
+      "title": "봄빛이 스며든 신사 정원",
+      "src": "images/yeowuyeon/new/yeowuyeon_school/08.png",
+      "memo": "교복 컬렉션 · 봄빛이 스며든 신사 정원",
+      "date": "2026.11",
+      "owner": "yeowuyeon",
+      "collection": "yeowuyeon_school"
+    },
+    {
+      "cat": "yeowuyeon_school",
+      "title": "여우연 교복 콘셉트 설정자료집",
+      "src": "images/yeowuyeon/new/yeowuyeon_school/09.png",
+      "memo": "교복 컬렉션 · 여우연 교복 콘셉트 설정자료집",
+      "date": "2026.11",
+      "owner": "yeowuyeon",
+      "collection": "yeowuyeon_school"
+    },
+    {
+      "cat": "yeowuyeon_school",
+      "title": "짱돌이 캐릭터 설정자료집",
+      "src": "images/yeowuyeon/new/yeowuyeon_school/10.png",
+      "memo": "교복 컬렉션 · 짱돌이 캐릭터 설정자료집",
+      "date": "2026.11",
+      "owner": "yeowuyeon",
+      "collection": "yeowuyeon_school"
+    },
+    {
+      "cat": "nunyo_witch",
+      "title": "눈꽃 마법 도서관의 견습 마녀",
+      "src": "images/nunyo/new/nunyo_witch/01.png",
+      "memo": "마녀 컬렉션 · 눈꽃 마법 도서관의 견습 마녀",
+      "date": "2026.11",
+      "owner": "nunyo",
+      "collection": "nunyo_witch"
+    },
+    {
+      "cat": "nunyo_witch",
+      "title": "마법서가 펼쳐진 신비한 도서관",
+      "src": "images/nunyo/new/nunyo_witch/02.png",
+      "memo": "마녀 컬렉션 · 마법서가 펼쳐진 신비한 도서관",
+      "date": "2026.11",
+      "owner": "nunyo",
+      "collection": "nunyo_witch"
+    },
+    {
+      "cat": "nunyo_witch",
+      "title": "토끼 조수와 마법약 소동",
+      "src": "images/nunyo/new/nunyo_witch/03.png",
+      "memo": "마녀 컬렉션 · 토끼 조수와 마법약 소동",
+      "date": "2026.11",
+      "owner": "nunyo",
+      "collection": "nunyo_witch"
+    },
+    {
+      "cat": "nunyo_witch",
+      "title": "눈꽃 마법에 깜짝 놀란 날",
+      "src": "images/nunyo/new/nunyo_witch/04.png",
+      "memo": "마녀 컬렉션 · 눈꽃 마법에 깜짝 놀란 날",
+      "date": "2026.11",
+      "owner": "nunyo",
+      "collection": "nunyo_witch"
+    },
+    {
+      "cat": "nunyo_witch",
+      "title": "겨울 하늘에 부르는 눈꽃 마법",
+      "src": "images/nunyo/new/nunyo_witch/05.png",
+      "memo": "마녀 컬렉션 · 겨울 하늘에 부르는 눈꽃 마법",
+      "date": "2026.11",
+      "owner": "nunyo",
+      "collection": "nunyo_witch"
+    },
+    {
+      "cat": "nunyo_witch",
+      "title": "눈요의 얼굴과 표정 설정자료집",
+      "src": "images/nunyo/new/nunyo_witch/06.png",
+      "memo": "마녀 컬렉션 · 눈요의 얼굴과 표정 설정자료집",
+      "date": "2026.11",
+      "owner": "nunyo",
+      "collection": "nunyo_witch"
+    },
+    {
+      "cat": "nunyo_witch",
+      "title": "눈꽃 마녀 의상 설정자료집",
+      "src": "images/nunyo/new/nunyo_witch/07.png",
+      "memo": "마녀 컬렉션 · 눈꽃 마녀 의상 설정자료집",
+      "date": "2026.11",
+      "owner": "nunyo",
+      "collection": "nunyo_witch"
+    },
+    {
+      "cat": "nunyo_witch",
+      "title": "달빛 아래 눈 내리는 밤",
+      "src": "images/nunyo/new/nunyo_witch/08.png",
+      "memo": "마녀 컬렉션 · 달빛 아래 눈 내리는 밤",
+      "date": "2026.11",
+      "owner": "nunyo",
+      "collection": "nunyo_witch"
+    },
+    {
+      "cat": "nunyo_witch",
+      "title": "달빛과 토끼가 지키는 눈꽃 약속",
+      "src": "images/nunyo/new/nunyo_witch/09.png",
+      "memo": "마녀 컬렉션 · 달빛과 토끼가 지키는 눈꽃 약속",
+      "date": "2026.11",
+      "owner": "nunyo",
+      "collection": "nunyo_witch"
+    },
+    {
+      "cat": "nunyo_witch",
+      "title": "마법 열차에서 맞이한 겨울 일출",
+      "src": "images/nunyo/new/nunyo_witch/10.png",
+      "memo": "마녀 컬렉션 · 마법 열차에서 맞이한 겨울 일출",
+      "date": "2026.11",
+      "owner": "nunyo",
+      "collection": "nunyo_witch"
     }
   ],
-  "version": "1.6",
-  "updated": "2026-11-11",
+  "version": "1.8",
+  "updated": "2026.11.14",
   "categories": {
     "fragments": {
       "title": "시간의 편린",
@@ -2414,9 +2972,9 @@
       "icon": "☀️"
     },
     "eri_uniform": {
-      "title": "제복",
-      "subtitle": "NIGHT PATROL · 도시의 수호자",
-      "description": "도시의 네온과 해안도로를 지키는 애리의 하루",
+      "title": "경찰복",
+      "subtitle": "POLICE UNIFORM · 도시의 수호자",
+      "description": "경찰복을 입은 애리의 네온 도시 순찰 기록",
       "icon": "🚨"
     },
     "rabu_senjougahara": {
@@ -2430,6 +2988,42 @@
       "subtitle": "GHOSTLY DAYS · 유령의 작은 하루",
       "description": "보랏빛 방과 늦은 밤, 라브의 사소하고 특별한 시간",
       "icon": "👻"
+    },
+    "nano_swim": {
+      "title": "수영복",
+      "subtitle": "SUMMER BY THE SEA · 푸른 여름",
+      "description": "파도와 노을이 머무는 나노의 여름 여행",
+      "icon": "🌊"
+    },
+    "seolhong_astra": {
+      "title": "젠레스 존 제로 · 아스트라",
+      "subtitle": "ASTRA · 별빛의 무대",
+      "description": "무대와 도시의 불빛 속, 아스트라 콘셉트의 설홍",
+      "icon": "🎤"
+    },
+    "seolhong_yixuan": {
+      "title": "젠레스 존 제로 · 의현",
+      "subtitle": "YIXUAN · 매화의 선율",
+      "description": "도시의 네온과 해금 선율이 만나는 설홍의 의현 콘셉트",
+      "icon": "🎻"
+    },
+    "eri_menhera": {
+      "title": "멘헤라",
+      "subtitle": "MENHERA · 검은 리본의 하루",
+      "description": "고딕 세일러와 붉은 네온이 어우러진 애리의 멘헤라 콘셉트",
+      "icon": "🖤"
+    },
+    "yeowuyeon_school": {
+      "title": "교복",
+      "subtitle": "SCHOOL DAYS · 봄빛의 기억",
+      "description": "벚꽃과 달빛, 신사 정원에서 만나는 여우연의 새로운 모습",
+      "icon": "📚"
+    },
+    "nunyo_witch": {
+      "title": "마녀",
+      "subtitle": "SNOW WITCH · 눈꽃 마법",
+      "description": "눈꽃 마법과 토끼 조수가 함께하는 겨울의 동화",
+      "icon": "🪄"
     }
   },
   "active_members": [

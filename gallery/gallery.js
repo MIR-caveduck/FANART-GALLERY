@@ -2,7 +2,7 @@ const id=document.body.dataset.member,base="../../";let all=[],active=[],selecte
 const $=x=>document.getElementById(x);
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const memberNames={seolhong:"설홍",eri:"최애리",nunyo:"눈요",yeowuyeon:"여우연",nano:"나노",rabu:"라브"};
-const niceOrder=["nano_home","nano_nurse","nano_school","nano_date","nunyo_pajama","yeowuyeon_princess","eri_nun","eri_swim","eri_uniform","rabu_senjougahara","rabu_daily","martial","bikini","swimwear","activewear","zzz","bold_hanbok","fantasy_new","hanbok_new"];
+const niceOrder=["nano_swim","seolhong_astra","seolhong_yixuan","eri_menhera","yeowuyeon_school","nunyo_witch","nano_home","nano_nurse","nano_school","nano_date","nunyo_pajama","yeowuyeon_princess","eri_nun","eri_swim","eri_uniform","rabu_senjougahara","rabu_daily","martial","bikini","swimwear","activewear","zzz","bold_hanbok","fantasy_new","hanbok_new"];
 let groups=[];
 fetch(base+"data/gallery.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw Error("데이터를 불러오지 못했습니다");return r.json()}).then(data=>{
  all=data.items.filter(x=>x.owner===id);
